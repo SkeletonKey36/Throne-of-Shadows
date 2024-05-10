@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map Generation.md",
+                "file": "Possible Locations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcde3cb33cfc2b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raw Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map Generation.md",
+                "file": "Raw Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map Generation.md",
+                "file": "Raw Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map Generation.md"
+                "file": "Raw Ideas.md"
               }
             }
           }
@@ -171,9 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75c2773aad1faa31",
+  "active": "fcde3cb33cfc2b7b",
   "lastOpenFiles": [
     "Possible Locations.md",
+    "Raw Ideas.md",
     "Map Generation.md",
     "Acts/Act I - Echoes of Prophecy/Overview.md",
     "Acts/Act I - Echoes of Prophecy/Scene 1 - The King's Decree.md",
