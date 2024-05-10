@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5c6ab17c060d3294",
+    "type": "split",
+    "children": [
+      {
+        "id": "652125e5c6837253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5acf87bbbb8e1995",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Acts/Act I/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5072d96508cba09b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac018dd25756dcde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12c52bea65974e40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3ccce4da03e93e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65fadf7d4def0eeb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "06b920917e9ce4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a71f420ddf14d3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "983ca8fa32523c16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Acts/Act I/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3c32ea0f0298a2f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Acts/Act I/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a310c95655d8b97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de060c6d44e657d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Acts/Act I/Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5acf87bbbb8e1995",
+  "lastOpenFiles": [
+    "Campaign Overview.md",
+    "Acts/Act I/Overview.md",
+    "Acts/Act V",
+    "Acts/Act IV",
+    "Acts/Act III",
+    "Acts/Act II",
+    "Acts/Act I",
+    "Acts"
+  ]
+}
