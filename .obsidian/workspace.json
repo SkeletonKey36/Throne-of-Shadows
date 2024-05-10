@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acts/Act I/Overview.md",
+                "file": "Acts/Act I - Echoes of Prophecy/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fabd0b6df1b36b3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Possible Locations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acts/Act I/Overview.md",
+                "file": "Possible Locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acts/Act I/Overview.md",
+                "file": "Possible Locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acts/Act I/Overview.md"
+                "file": "Possible Locations.md"
               }
             }
           }
@@ -146,17 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5acf87bbbb8e1995",
+  "active": "fabd0b6df1b36b3f",
   "lastOpenFiles": [
-    "Acts/Act I/Scene 1 - The King's Decree.md",
-    "Acts/Act I/Overview.md",
+    "Acts/Act I - Echoes of Prophecy/Overview.md",
+    "Possible Locations.md",
+    "Acts/Act I - Echoes of Prophecy/Scene 1 - The King's Decree.md",
     "Campaign Overview.md",
     "README.md",
     "Acts/Act V",
     "Acts/Act IV",
     "Acts/Act III",
     "Acts/Act II",
-    "Acts/Act I",
+    "Acts/Act I - Echoes of Prophecy",
     "Acts"
   ]
 }
