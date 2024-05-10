@@ -3,7 +3,7 @@
 - **Key Adventure**: The players are contacted by the exiled fortune tellers who explain the situation and ask for their help in stopping the king. The players must travel through dangerous lands to a secret meeting place, gathering allies and information.
 ### Campaign Start: "The King's Decree"
 #### **Setting**A bustling town square where the local population, including peasants, merchants, and guards, is gathered to hear an important announcement from the kingdom's leadership.
-#### **Scene 1: The King's Decree**
+#### [[Scene 1 - The King's Decree]]
 - **Objective**: Introduce the players to the campaign's main conflict.
 - **Events**:
   1. **Announcement**: A herald reads the king’s decree that seeks information on immortality and announces that the prince will establish the town as a command center for this quest.
