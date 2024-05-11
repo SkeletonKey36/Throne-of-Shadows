@@ -5,3 +5,4 @@
     
     One thing I thought would be cool is if since the warlord took control via divination and future telling/visions and since those visions are now predicting his death, he tried to kill all his fortune tellers and employed a particular creature that smells divination magic and will seek to kill its source.
 	So if there are times the seer with them wants to predict the future then they must fight off the creatures that show up to kill her
+

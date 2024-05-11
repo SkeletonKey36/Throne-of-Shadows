@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Raw Ideas.md",
+                "file": "Campaign Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Raw Ideas.md",
+                "file": "Campaign Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Raw Ideas.md",
+                "file": "Campaign Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Raw Ideas.md"
+                "file": "Campaign Overview.md"
               }
             }
           }
@@ -185,13 +185,13 @@
   },
   "active": "fcde3cb33cfc2b7b",
   "lastOpenFiles": [
-    "Possible Locations.md",
-    "Raw Ideas.md",
     "Map Generation.md",
+    "Possible Locations.md",
+    "README.md",
+    "Raw Ideas.md",
     "Acts/Act I - Echoes of Prophecy/Overview.md",
     "Acts/Act I - Echoes of Prophecy/Scene 1 - The King's Decree.md",
     "Campaign Overview.md",
-    "README.md",
     "Acts/Act V",
     "Acts/Act IV",
     "Acts/Act III",
